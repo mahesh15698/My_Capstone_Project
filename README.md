@@ -1,2 +1,26 @@
 # My_Capstone_Project
-Cyber Sentinel: Detecting Phishing Domains with Machine Learning
+## Cyber Sentinel: Detecting Phishing Domains with Machine Learning
+
+
+### Software and account Requirement.
+
+1. [Github Account](https://github.com)
+2. [VS Code IDE](https://code.visualstudio.com/download)
+3. [GIT cli](https://git-scm.com/downloads)
+4. [GIT Documentation](https://git-scm.com/docs/gittutorial)
+
+
+Creating conda environment
+```
+conda create -p venv python==3.7 -y
+```
+```
+conda activate venv/
+```
+OR 
+```
+conda activate venv
+```
+```
+pip install -r requirements.txt
+```
