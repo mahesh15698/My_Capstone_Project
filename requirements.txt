@@ -2,5 +2,13 @@ pandas
 numpy
 seaborn
 matplotlib
+plotly
+nbformat
+scikit-learn
+xgboost
+lightgbm 
+
+
+
 
 
