@@ -3,8 +3,10 @@
 1. [Detail Code and Experiment](https://github.com/mahesh15698/My_Capstone_Project/blob/main/EDA.ipynb)
 2. [Presentation](https://github.com/mahesh15698/My_Capstone_Project/blob/main/Presentation/Mahesh_Jadhav_CS668_Presentation.pptx.pdf)
 
-[Project Title](https://github.com/mahesh15698/My_Capstone_Project/blob/main/Presentation/ProblemStamentMaheshJAdhav.jpg)
-[Problem Statement](https://github.com/mahesh15698/My_Capstone_Project/blob/main/Presentation/ProblemStamentMaheshJAdhav%20(1).jpg)
+![Project Title](https://github.com/mahesh15698/My_Capstone_Project/blob/main/Presentation/ProblemStamentMaheshJAdhav.jpg)
+
+
+![Problem Statement](https://github.com/mahesh15698/My_Capstone_Project/blob/main/Presentation/ProblemStamentMaheshJAdhav%20(1).jpg)
 
 
 ### Software and account Requirement.
